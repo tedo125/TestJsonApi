@@ -1,4 +1,8 @@
 {   
-    "url": "google.com",
-    "confirmation_code": 200
+    "posts": [
+    {
+       "url": "google.com",
+        "confirmation_code": 200
+    }
+  ]
 }
