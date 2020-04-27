@@ -1,4 +1,4 @@
 {   
-    url: 'google.com',
-    confirmation_code: 200
+    "url": 'google.com',
+    "confirmation_code": 200
 }
