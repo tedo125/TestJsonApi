@@ -1,8 +1,8 @@
-{   
-    "posts": [
+{
+  "posts": [
     {
-       "url": "google.com",
-        "confirmation_code": 200
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
