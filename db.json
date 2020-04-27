@@ -1,11 +1,7 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    { 
+      "url": "google.com",
+      "confirmation_code": 200 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
