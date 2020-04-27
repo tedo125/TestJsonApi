@@ -1,8 +1,15 @@
 {
   "posts": [
-    { 
-      "url": "google.com",
-      "confirmation_code": 200 
-    },
-  ]
+      {
+        "url": "google.com",
+        "confirmation_code": 200 
+      },
+      {
+        "url": "google.com",
+        "confirmation_code": 200 
+      }
+   ],
+   "profile": {
+      "name": "typicode"
+   }
 }
